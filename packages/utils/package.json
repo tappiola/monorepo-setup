@@ -1,0 +1,8 @@
+{
+  "name": "@repo/utils",
+  "version": "1.0.0",
+  "main": "index.ts",
+  "peerDependencies": {
+    "react": "^19.1.0"
+  }
+}
